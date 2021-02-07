@@ -4,8 +4,8 @@ let dog,dogImg, happyDogImg, database, foodS, foodStock;
 function preload()
 {
   //load images here
-  dogImg = loadImage("images/dog.png");
-  happyDogImg = loadImage("images/happyDog.png");
+  dogImg = loadImage("images/dogImg.png");
+  happyDogImg = loadImage("images/dogImg1.png");
 }
 
 function setup() {
